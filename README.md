@@ -1,7 +1,8 @@
 # 📝 todo-list
 
-코드스쿼드 첫번째 그룹 프로젝트
+코드스쿼드 첫번째 그룹 프로젝트   
 
+[✨ 데모페이지](https://hemtori.github.io/todo-list/)
 </br>
 
 ## ⭐️ Team Hemtori
